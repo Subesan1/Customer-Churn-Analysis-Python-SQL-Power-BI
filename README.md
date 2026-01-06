@@ -148,8 +148,8 @@ Power BI → Dashboards
 ## 📌 Author
 **Subesan T P** 
 
-MIS EXECUTIVE | Aspiring Data Analyst  
-Power BI | SQL | Python
+**MIS EXECUTIVE | Aspiring Data Analyst  
+Power BI | SQL | Python**
 
 This project forms part of my analytics portfolio and demonstrates a **complete analytics lifecycle** and reflects workflows commonly used in **real-world data analyst** and business intelligence roles.
 ### Connect With me
